@@ -1,6 +1,6 @@
 # Anslem27.github.io   `Still limited to desktop`
 
-My personal portfolio website written in flutter
+My personal portfolio website written with flutter.
 ===
 
 `Work in progress`
