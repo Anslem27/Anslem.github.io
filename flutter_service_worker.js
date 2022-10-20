@@ -4,7 +4,7 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "404.html": "b3dea88139773500380bdfdd94e57ed0",
-"assets/AssetManifest.json": "f4648f5a7fe5bc5261a88aa131f7ddc5",
+"assets/AssetManifest.json": "eef3d1ef1fcd0bbfb4a363f08ec7b747",
 "assets/assets/icons/constr.png": "61369f8510faa5f563eda14f9a5ff6d6",
 "assets/assets/icons/cv.png": "e431278ed756683f924bc233b99d0fc5",
 "assets/assets/icons/d.png": "1734611e46c1797aa993d0d93e2b842a",
@@ -26,10 +26,12 @@ const RESOURCES = {
 "assets/assets/images/me.jpg": "9f343173642c54e26ca979363cca8bb8",
 "assets/assets/images/skill.gif": "838b6ad0906cbaba13df3e466b5eaf2d",
 "assets/assets/images/smear_loader.gif": "05b801cbb3d167d2b99f157c5c6a376c",
+"assets/assets/svg/bubbles.svg": "0e0a5f380e73c24c9bd0a7d08ba0906b",
+"assets/assets/svg/fail.svg": "abc502b0a7bf3b2ca90305859f17f660",
 "assets/eye_blink.gif": "e566888221db79ed11f8d484de3f69aa",
 "assets/FontManifest.json": "3c6f2aec284ba6e927fd5e00fb6c4257",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "2886f902d99827cc424e127bc8be0fa3",
+"assets/NOTICES": "9763f4ee91868d821e59c9e41b7dd131",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/iconsax/lib/assets/fonts/iconsax.ttf": "071d77779414a409552e0584dcbfd03d",
 "assets/shaders/ink_sparkle.frag": "6333b551ea27fd9d8e1271e92def26a9",
@@ -43,10 +45,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "9db3dda1eea6b12a0aad53dd4a4b0c2a",
 "icons/Icon-maskable-192.png": "a671a3f049cdbd7acc9c14d7748ffabf",
 "icons/Icon-maskable-512.png": "9db3dda1eea6b12a0aad53dd4a4b0c2a",
-"index.html": "53fb9d2521e1929ba2172885ef4b9837",
-"/": "53fb9d2521e1929ba2172885ef4b9837",
-"main.dart.js": "57bc24bb360fdd0ec605c35f4d4f18f1",
+"index.html": "7c56e52abb9bb74dde31ab6080800794",
+"/": "7c56e52abb9bb74dde31ab6080800794",
+"main.dart.js": "c08aa34a720cdeeb1746a8bbdf8a9959",
 "manifest.json": "e3a3b9c9191af07396eb7acc761f0a68",
+"twitter.html": "2c74f4555b8c7fa6574204d158d79d02",
 "version.json": "c420e205d8eac4ccea99913b4a50bfa7"
 };
 
