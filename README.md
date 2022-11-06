@@ -1,6 +1,9 @@
 # Anslem27.github.io
 <!-- Live Build -->
-[Check out live build here](https://anslem27.github.io/)
+- [Check out live build here](https://anslem27.github.io/)
+- [Check out base repository here](https://anslem27.github.io/)
+
+**Kindly star, if you earn anything from the repo, and contributions are highly reccomended.**
 
 ### My personal portfolio website written with 💙flutter
 <!-- Showcase HomePage -->
