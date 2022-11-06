@@ -4,7 +4,7 @@
 
 ### My personal portfolio website written with 💙flutter
 <!-- Showcase HomePage -->
-<img src="showcase/3.png">
+<img src="showcase/Screenshot 2022-11-06 230437.png">
 
 __`Note` that this compiled version of the base repository.__
 
